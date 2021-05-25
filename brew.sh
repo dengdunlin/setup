@@ -9,10 +9,13 @@ brew install ack
 brew install wget
 
 # Install MacOS Applications
-brew cask install google-chrome
-brew cask install iterm2
-brew cask install hyperdock
-brew cask install sourcetree
-brew cask install appcleaner
-brew cask install visual-studio-code 
-brew cask install bitwarden
+brew install --cask google-chrome
+brew install --cask iterm2
+brew install --cask hyperdock
+brew install --cask sourcetree
+brew install --cask appcleaner
+brew install --cask visual-studio-code 
+brew install --cask bitwarden
+brew install --cask rectangle
+brew install --cask notion
+
